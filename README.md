@@ -27,7 +27,7 @@ Abaixo, você pode ver um pouco do meu desempenho e das linguagens que mais util
 ### 🏆 Contribuições e Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu13&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
@@ -41,7 +41,10 @@ Sinta-se à vontade para me chamar para um café virtual ou discutir sobre proje
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
+
 ![Snake animation](https://raw.githubusercontent.com/Yuzu13/Yuzu13/output/github-contribution-grid-snake.svg)
+
 <p align="center">
+  
   <i>"O sucesso não é o fim, o fracasso não é fatal: é a coragem de continuar que conta."</i>
 </p>
