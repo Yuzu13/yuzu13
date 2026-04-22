@@ -41,7 +41,7 @@ Sinta-se à vontade para me chamar para um café virtual ou discutir sobre proje
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
-![Snake animation](https://github.com/yuzu13/yuzu13/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Yuzu13/Yuzu13/output/github-contribution-grid-snake.svg)
 <p align="center">
   <i>"O sucesso não é o fim, o fracasso não é fatal: é a coragem de continuar que conta."</i>
 </p>
