@@ -1,26 +1,27 @@
 name: Generate Datas
 
 on:
-  schedule: # executa a cada 12 horas
+  schedule: # Executa a cada 12 horas
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Garante permissão de escrita via código
+      contents: write # Permissão necessária para salvar o arquivo na branch output
     steps:
-      # Snake Animation
+      # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: Yuzu13
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Pega os arquivos gerados e envia para a branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
