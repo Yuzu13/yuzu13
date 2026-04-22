@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Marques! 👋
 
 ### 🚀 Apaixonado por tecnologia e transformando café em código.
 
@@ -8,19 +8,20 @@
 
 Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode,docker,aws,py)
-
----
+Minhas Habilidades
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs" />
 
 ### 📊 Minhas Estatísticas
 
 Abaixo, você pode ver um pouco do meu desempenho e das linguagens que mais utilizo:
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
+<div>
+<a href="https://beacons.ai/rafaballerini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuzu13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu13&layout=compact&langs_count=16&theme=dark"/>
+</a>
+</div>
 ---
 
 ### 🏆 Contribuições e Streak
