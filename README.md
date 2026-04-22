@@ -18,8 +18,8 @@ Abaixo, você pode ver um pouco do meu desempenho e das linguagens que mais util
 
 <div>
 <a href="https://beacons.ai/rafaballerini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuzu13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu13&layout=compact&langs_count=16&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuzu13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzu13&layout=compact&langs_count=16&theme=dark"/>
 </a>
 </div>
 ---
